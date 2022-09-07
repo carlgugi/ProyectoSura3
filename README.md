@@ -6,4 +6,4 @@ Ejercicio practico 3
 - GATO
 - PERRO
 - CABALLO
--CUERVO 
+- CUERVO 
